@@ -22,7 +22,7 @@ The first deliverable was completed with little to no challenges.  A potential c
 ### Analysis of Outcomes Based on Goals
 
 The second analysis performed was to explore whether outcomes were effected by the goal of the fundraising campaign.  The data was organized in an 8x12 sheet with Goal, Number Successufl, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, and Percentage canceled across the top header, and funding goals in $5000 increments starting with less than $1000 and finishing with greater than $50,000.
-(link)
+(https://github.com/agregorash/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 The first three columns were calculated using the COUNTIFS function, with the outcomes, goal, and subcategory play as a consistent filter.  The outcomes and goal criteria were changed based on the outcome result in the column and the goal result in the row.  The sum of all campaigns in each funding increment was calculated in the Total Projects column by adding the three outcome values.  Percentages of each outcome were then calculated by dividing the Successful, Failed, and Canceled campaigns by the Total Projects value and formatting the values as percentages.  The data in the final three columns was then vizualized with a line chart, with percentage on the y-axis and the goal amount on the x-axis.  
 
 ### Challenges and Difficulties Encountered
