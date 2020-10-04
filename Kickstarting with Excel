@@ -11,7 +11,7 @@ Prior to launching a fundraising campaign for her play *Fever*, our client Louis
 ### Analysis of Outcomes Based on Launch Date
 
 In order to see whether any trends existed for the outcome of Kickstarter campaigns based on the launch date, we set out to organize this data in a pivot table and visualize it through a line chart.  
-(link)
+(https://github.com/agregorash/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png.png)
 The three outcomes analyzed were successful, failed, and canceled. Live campaigns were later filtered out of the outcomes column.  Parent category and years were used as the two filters in our pivot chart so the data could be filtered to show specifically theater campaigns.  Next we used outcomes as the column value and date created as our row value, and then grouped the row labels to show the month of the year, so that we could quickly see the amount of successful, failed, and canceled campaigns based on the month of the year they were launch.  The outcomes column was then filtered in descending order to further clean the data and show successful campaigns first, then failed, and then canceled respectively.  A line chart with dots is used to show the number of outcomes on the y-axis, based on the month the campaign was launched on the x-axis.
 
 
