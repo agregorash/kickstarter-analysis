@@ -4,6 +4,9 @@
 
 ### Purpose
 
+Prior to launching a fundraising campaign for her play *Fever*, our client Louise asked us to analyze a dataset of Kickstarter campaigns in order to determine the key variables for launching a fundraising campaign.  Now that she has launched her campaign she would like to know how similar campaigns performed with these key factors in mind.   
+Through our initial analysis of the compiled data we concluded that launch date and funding goals are two critical variables that determine whether a fundraising campaign will be successful or not.  In order to help analyze trends we vizualized the data with charts from our pivot table of campaign outcomes based on launch date, and statistical analysis of campaign outcomes based on the fundraising goal amount. 
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
